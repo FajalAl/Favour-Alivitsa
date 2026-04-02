@@ -1,4 +1,4 @@
-# Hi, I'm Favour Jalenga 👋
+# Hi, I'm Favour Alivitsa
 
 Backend & Full-Stack Developer based in Nairobi, Kenya.
 I build reliable transactional systems for emerging markets —
