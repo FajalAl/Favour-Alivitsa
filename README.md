@@ -4,7 +4,7 @@ Backend & Full-Stack Developer based in Nairobi, Kenya.
 I build reliable transactional systems for emerging markets —
 with a focus on fintech infrastructure, cloud deployment, and security.
 
-## 🔧 Tech Stack
+##  Tech Stack
 **Languages:** Python · JavaScript (ES6+) · PHP
 **Frontend:** React.js
 **Backend:** REST APIs · Node.js · Server-side validation
@@ -19,5 +19,5 @@ with a focus on fintech infrastructure, cloud deployment, and security.
 - **[Computer Vision Detection App]** — Real-time object detection pipeline
   optimised for low-resource environments (Python, OpenCV)
 
-## 📫 Reach me
+##  Reach me
 - LinkedIn: linkedin.com/in/favouralivitsa
